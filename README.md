@@ -1,2 +1,2 @@
-# RemoveLetterAccents
-Normalize Unicode data to remove the the letter accents in the text and convert it to normal text.
+# RemoveLetterAccents-tool
+Normalize Unicode data to change accented letters to corresponding letters without accent marks.
